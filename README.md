@@ -37,6 +37,8 @@ Most Redux docs and tutorials assume you know some of the most commonly used ES2
 3. Once you have gone through these basics, and gotten a small test app to work, try using what you know now to build a small app. Don't worry about "best practice" yet. Much of the best practice subjects don't make much sense until you actually try to do the things which it protects against.
 4. Once you have built some small app with what you know, you might jump into the intermediate links below.
 
+- [Redux FAQ (in the documentation)](http://redux.js.org/docs/FAQ.html)
+
 - [High Level Description of Redux](http://www.youhavetolearncomputers.com/blog/2015/9/15/a-conceptual-overview-of-redux-or-how-i-fell-in-love-with-a-javascript-state-container)
 
 ### Intermediate guides

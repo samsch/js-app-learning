@@ -35,7 +35,7 @@ Most Redux docs and tutorials assume you know some of the most commonly used ES2
 1. The best way to get started with the Redux docs is to read (and code along with) section 1 through 1.3, skip 1.4 and 1.5 for now, and then go through sections 2 and 3.
 2. Section 2.5 requires you have a bit of an idea how React components work, specifically [stateless function components](https://facebook.github.io/react/docs/reusable-components.html#stateless-functions), combined with arrow functions and destructuring.
 3. Once you have gone through these basics, and gotten a small test app to work, try using what you know now to build a small app. Don't worry about "best practice" yet. Much of the best practice subjects don't make much sense until you actually try to do the things which it protects against.
-4. Once you have built some small app with what you know, you might jump into the intermediate links below.
+4. Once you have built some small app with what you know, you might jump into the **Intermediate guides** below.
 
 - [Redux FAQ (in the documentation)](http://redux.js.org/docs/FAQ.html)
 

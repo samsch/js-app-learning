@@ -38,8 +38,8 @@ Most Redux docs and tutorials assume you know some of the most commonly used ES2
 4. Once you have built some small app with what you know, you might jump into the **Intermediate guides** below.
 
 - [Redux FAQ (in the documentation)](http://redux.js.org/docs/FAQ.html)
-
 - [High Level Description of Redux](http://www.youhavetolearncomputers.com/blog/2015/9/15/a-conceptual-overview-of-redux-or-how-i-fell-in-love-with-a-javascript-state-container)
+- [Rules For Structuring (Redux) Applications](http://jaysoo.ca/2016/02/28/organizing-redux-application/)
 
 ### Intermediate guides
 

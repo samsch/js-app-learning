@@ -9,7 +9,7 @@ Before trying to learn React or Redux, or use Webpack/Browserify or Babel, you s
 
 - [React Docs](https://facebook.github.io/react/docs/getting-started.html)
  - Remember that the most basic guides makes generalizations and simplifications such that they aren't great references for "good" coding. The *Guides*, *References*, and *Tips* sections are your good references.
-
+- [React.js Introduction For People Who Know Just Enough jQuery To Get By](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/)
 - [React Training](https://github.com/ryanflorence/react-training)
   - [Wrapping DOM Libs](https://github.com/ryanflorence/react-training/blob/gh-pages/lessons/05-wrapping-dom-libs.md)
 

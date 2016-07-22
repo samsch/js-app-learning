@@ -2,6 +2,8 @@ Before trying to learn React or Redux, or use Webpack/Browserify or Babel, you s
 
 # Basic setup
 
+- [create-react-app](https://github.com/facebookincubator/create-react-app)
+ - This is a relatively new tool from facebook, which gets you up and running with a good development environment (Webpack+Babel+ESLint) quickly. It also includes an escape for when you need to use custom configuration.
 - [Setting Up a React.js Environment Using Npm, Babel 6 and Webpack](https://www.codementor.io/reactjs/tutorial/beginner-guide-setup-reactjs-environment-npm-babel-6-webpack)
  - It's potentially hazardous to use ES2015 import/export syntax, as the loading definition is non-existant. Right now Babel compiles it to CommonJS, and it's better to use that directly.
 

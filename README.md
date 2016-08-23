@@ -27,7 +27,10 @@ Google and the React docs should be your first place to go for React help. If yo
 
 Redux is a flux-like application state store. Redux (and indeed, any framework or flux implementation) is not needed to build good Javascript applications. That said, if you want a set structure for how to build you app (a framework), Redux is a good choice. Another popular choice is [Alt](http://alt.js.org/), which is supposed to have very good docs for learning Flux.
 
-Most Redux docs and tutorials assume you know some of the most commonly used ES2015 syntax; notably arrow functions, destructuring, and import syntax. One thing that many are getting wrong is using import syntax, and having Babel compile it to CommonJS. **Do not use ES2015 import syntax.** It's behavior is **currently undefined!**. You can see where it's at [here](https://github.com/whatwg/loader). Instead, use CommonJS directly.
+Most Redux docs and tutorials assume you know some of the most commonly used ES2015 syntax; notably arrow functions, destructuring, and import syntax.
+
+> One thing that many are getting wrong is using import syntax, and having Babel compile it to CommonJS. **Do not use ES2015 import syntax.** It's behavior is **currently undefined!**. You can see where it's at [here](https://github.com/whatwg/loader). Instead, use CommonJS directly.
+> -- My opinion
 
 ### Basics
 

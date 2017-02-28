@@ -18,6 +18,7 @@ Before trying to learn React or Redux, or use Webpack/Browserify or Babel, you s
   - [Wrapping DOM Libs](https://github.com/ryanflorence/react-training/blob/gh-pages/lessons/05-wrapping-dom-libs.md)
 
 - [Learn about immutability](http://reactkungfu.com/2015/08/pros-and-cons-of-using-immutability-with-react-js/)
+- [Basic immutable state with PureComponent example](http://codepen.io/anon/pen/ryOvwG?editors=0011)
 
 ### Tips
 - The best way to use React is to stick (almost) exclusively to passing down props (for state and callbacks), and ignoring component state. You should almost always be able to use [stateless function components](https://facebook.github.io/react/docs/reusable-components.html#stateless-functions).

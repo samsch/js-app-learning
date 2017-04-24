@@ -2,17 +2,18 @@ Before trying to learn React or Redux, or use Webpack/Browserify or Babel, you s
 
 # Basic setup
 
+(Webpack+Babel+ESLint) quickly. It also includes an escape for when you need to use custom configuration.
+- [Getting Started with React](https://samuelscheiderich.com/2017/04/21/getting-started-with-react/)
+  - A walkthrough in setting up a React development environment. It creates the basic-react repo in the next item.
+- A config/boilerplate React app https://github.com/samsch/basic-react.
+  - This repo gives you a barebones Webpack-based development environment for React, using Babel for modern JS and JSX compilation.
 - [create-react-app](https://github.com/facebookincubator/create-react-app)
- - This is a relatively new tool from facebook, which gets you up and running with a good development environment (Webpack+Babel+ESLint) quickly. It also includes an escape for when you need to use custom configuration.
-- [Setting Up a React.js Environment Using Npm, Babel 6 and Webpack](https://www.codementor.io/reactjs/tutorial/beginner-guide-setup-reactjs-environment-npm-babel-6-webpack)
- - It's potentially hazardous to use ES2015 import/export syntax, as the loading definition is non-existant. Right now Babel compiles it to CommonJS, and it's better to use that directly.
-- A quickly runnable final config/boilerplate React app (based on the above Codementor tutorial) is available here: https://github.com/samsch/basic-react.
- - This repo also includes the bit of webpack configuration which puts React into production mode for the production build, which is missed in the Codementor tutorial.
+  - This is tool for quickly setting up an opinionated React development environment. It's handy for small examples and some projects, but isn't designed to be customizable or extendable easily.
 
 # React
 
 - [React Docs](https://facebook.github.io/react/docs/getting-started.html)
- - Remember that the most basic guides makes generalizations and simplifications such that they aren't great references for "good" coding. The *Guides*, *References*, and *Tips* sections are your good references.
+  - Remember that the most basic guides makes generalizations and simplifications such that they aren't great references for "good" coding. The *Guides*, *References*, and *Tips* sections are your good references.
 - [React.js Introduction For People Who Know Just Enough jQuery To Get By](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/)
 - [React Training](https://github.com/ryanflorence/react-training)
   - [Wrapping DOM Libs](https://github.com/ryanflorence/react-training/blob/gh-pages/lessons/05-wrapping-dom-libs.md)
